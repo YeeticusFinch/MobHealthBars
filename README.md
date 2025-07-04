@@ -14,3 +14,4 @@ The healthbar changes color based on the percentage of health that is remaining.
 
 The healthbar used to be a TextDisplay entity, but for some reason TextDisplays collide with projectiles, so healthbars were switched to being invisible armorstands (which don't collide with projectiles thanks to the marker tag).
 
+Check out this project on Modrinth: https://modrinth.com/plugin/mobhealthbars
