@@ -1,0 +1,12 @@
+name: MobHealthBars
+version: 1.0.0
+main: com.lerdorf.mobhealthbars.MobHealthBars
+api-version: 1.21
+author: carl_alex
+description: Displays custom healthbars for mobs using text display entities
+website: fancy.lerdorf.com
+
+permissions:
+  mobhealthbars.use:
+    description: Allows players to see mob healthbars
+    default: true
